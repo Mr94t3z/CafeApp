@@ -1,12 +1,12 @@
 # CafeApp Description
 
-<h4>USERNAME</h4>
+<h4>Username</h4>
 
 ```
 Muhamad Taopik
 ```
 
-`PASSWROD`
+<h4>Password</h4>
 
 ```
 1q2w3e4r
