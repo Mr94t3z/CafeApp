@@ -14,10 +14,18 @@ Muhamad Taopik
 ```
 
 # Results
-`1. Login Layout`
+<h4>1. Login Layout</h4>
 
 ![Login Layout](results/LoginLayout.png)
 
-`2. Menu Cafe`
+<h4>2. Menu Cafe</h4>
 
-![Login Layout](results/HomeLayout.png)
+![Home Layout](results/HomeLayout.png)
+
+<h4>3. Detail Menu</h4>
+
+![Detail Layout](results/DetailLayout.png)
+
+<h4>4. Logout</h4>
+
+![Logout Layout](results/LogoutlLayout.png)
