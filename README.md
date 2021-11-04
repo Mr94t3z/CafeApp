@@ -1,6 +1,8 @@
 # CafeApp Description
 [![Android Arsenal](https://img.shields.io/badge/UTS%20Praktikum%20Pengembangan%20Aplikasi%20Mobile-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
+***Untuk memenuhi salah satu tugas `Ujian Tengah Semester` mata kuliah `Praktikum Pengembangan Aplikasi Mobile`.***
+
 ## Username:
 
 ```
