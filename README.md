@@ -1,16 +1,16 @@
 # CafeApp Description
 [![UTS_PPAM](https://img.shields.io/badge/UTS%20Praktikum%20Pengembangan%20Aplikasi%20Mobile-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
-Untuk memenuhi syarat salah satu tugas `ujian tengah semester` mata kuliah ***Praktikum Pengembangan Aplikasi Mobile***.
+Untuk memenuhi syarat salah satu tugas `ujian tengah semester` mata kuliah **Praktikum Pengembangan Aplikasi Mobile**.
 
-## Username:
+<h4>Username:</h4>
 [![Username](https://img.shields.io/badge/Username-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 ```
 Muhamad Taopik
 ```
 
-## Password:
+<h4>Password:</h4>
 [![Password](https://img.shields.io/badge/Password-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 ```
