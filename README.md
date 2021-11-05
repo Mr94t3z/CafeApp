@@ -22,6 +22,8 @@ Muhamad Taopik
 # Results
 [![Android Arsenal](https://img.shields.io/badge/Results-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
+Berikut merupakan `screenshot` hasil aplikasinya.
+
 ## 1. Login Layout
 
 ![Login Layout](results/LoginLayout.png)
