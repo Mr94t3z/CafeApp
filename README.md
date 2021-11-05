@@ -20,23 +20,27 @@ Muhamad Taopik
 ```
 
 # Results
-[![Android Arsenal](https://img.shields.io/badge/Results-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
+[![Results](https://img.shields.io/badge/Results-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 Berikut merupakan `screenshot` hasil aplikasinya.
 
-## 1. Login Layout
+<h4>1. Login Layout</h4>
+[![Results](https://img.shields.io/badge/Login-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
-![Login Layout](results/LoginLayout.png)
+![Login_Layout](results/LoginLayout.png)
 
-## 2. Menu Cafe
+<h4>2. Menu Cafe</h4>
+[![Menu_Cafe](https://img.shields.io/badge/Menu%20Cafe-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 ![Home Layout](results/HomeLayout.png)
 
-## 3. Detail Menu
+<h4>3. Detail Menu</h4>
+[![Detail_Menu](https://img.shields.io/badge/Detail%20Menu-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 ![Detail Layout](results/DetailLayout.png)
 
-## 4. Logout
+<h4>4. Logout</h4>
+[![Logout](https://img.shields.io/badge/Logout-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 ![Logout Layout](results/LogoutLayout.png)
 
