@@ -20,13 +20,13 @@ Muhamad Taopik
 ```
 
 # Results
-![Results](https://img.shields.io/badge/Results-CafeApp-yellowgreen)
+![Results](https://img.shields.io/badge/Results-CafeApp-blue)
 
 Berikut merupakan `screenshot` hasil dari aplikasinya.
 
 <h4>1. Login Layout</h4>
 
-![Login_Cafe](https://img.shields.io/badge/Login-CafeApp-blue)
+![Login_Cafe](https://img.shields.io/badge/Login-CafeApp-yellowgreen)
 
 ![Login_Layout](results/LoginLayout.png)
 
