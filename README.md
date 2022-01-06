@@ -1,5 +1,5 @@
 # CafeApp Description
-![UTS_PPAM](https://img.shields.io/badge/UTS%20Praktiku%20Pengembangan%20Aplikasi%20Mobile-CafeApp-blue)
+![UTS_PPAM](https://img.shields.io/badge/UTS%20Praktikum%20Pengembangan%20Aplikasi%20Mobile-CafeApp-blue)
 
 Untuk memenuhi syarat salah satu tugas `ujian tengah semester` mata kuliah **Praktikum Pengembangan Aplikasi Mobile**.
 
